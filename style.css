@@ -1,0 +1,75 @@
+table{
+    border: 1px solid rgb(255, 255, 255);
+    border-collapse: collapse;
+    text-align: center;
+    }
+.title{
+    border: 0px;
+    background-color: white;
+}
+
+td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    height: 2cm;
+    width: 2cm;
+    
+}
+.gren{
+  border: 0px; 
+  background-color: rgb(83, 250, 97);
+}
+.green{
+  background-color: rgb(83, 250, 97);
+}
+.red{
+  background-color: rgb(226, 107, 107);
+}
+.title2{
+  border: 0px;
+    background-color: rgb(226, 107, 107);
+}
+
+.title3{
+  border: 0px;
+    background-color: orange;
+}
+.ttl{
+  background-color: orange;
+}
+.title4{
+  border: 0px;
+    background-color: rgb(230, 141, 230);
+}
+.titl{
+    background-color: rgb(230, 141, 230);
+}
+.blue{
+  border: 0px;
+    background-color: rgb(25, 171, 219);
+}
+.blueb{
+  background-color: rgb(25, 171, 219);
+}
+.plkvb{
+  border: 0px;
+    background-color: lightblue;
+}
+.plkv{
+    background-color: lightblue;
+}
+.hal{
+    background-color: rgb(5, 114, 150);
+}
+.halb{
+  border: 0px;
+    background-color: rgb(5, 114, 150);
+}
+.ylow{
+  
+  background-color: yellow;
+}
+.ylowb{
+  border: 0px;
+    background-color: yellow;
+}
